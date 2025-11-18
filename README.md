@@ -40,4 +40,6 @@ Los diametros internos calculados para las diferentes secciones de la tuberia de
  * Linea de Liquido al Evaporador de Alta: 2,08 mm
  * Linea de Liquido al Evaporador de Baja: 10,39 mm
  * Linea de Descarga del Compresor de Baja: 36,48 mm
+
+<br>
 Finalmente tras realizar los calculos se obtuvo un COP de 3.501
